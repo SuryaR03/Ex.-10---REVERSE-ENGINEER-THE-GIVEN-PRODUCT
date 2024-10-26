@@ -37,8 +37,8 @@
 ![image](https://github.com/user-attachments/assets/0b222125-9e06-47d7-bf28-88b1609999b7)
 
 
-### Name: DEVA ABISHEK P
-### Register Number: 212223110008
+### Name: SURYA R
+### Register Number: 212223110056
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
